@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelperProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_escribir_archivo">No se pudo escribir en el archivo</string>
+    <string name="no_obtener_texto">No se pudo leer el archivo</string>
+    <string name="show_detail_text">[%d] archivos eliminados del directorio %s</string>
+    <string name="title_file">Archivo</string>
+    <string name="text_to_save">Texto a guardar</string>
+    <string name="no_permission">No tienes los permisos necesarios</string>
+</resources>
